@@ -1,4 +1,4 @@
-# Reverse these binaries
+# Reverse engineer these binaries
 
 This is a beginner friendly reverse engineering CTF. This is very simple and is meant to be a first step into the world of reverse engineering.
 
